@@ -51,12 +51,8 @@ pip install -r requirements.txt
 - Load an image and run the detection pipeline.
 - Display bounding boxes with class labels and confidence scores.
 
-### 6️⃣ Run the Web App (Gradio/Streamlit)
-- Run the following command for **Streamlit**:
-```bash
-python app.py
-```
-- Or for **Gradio**:
+### 6️⃣ Run the Web App (Gradio)
+-  **Gradio**:
 ```bash
 python gradio_app.py
 ```
